@@ -99,7 +99,6 @@ Permite clonar turnos preconfigurados para diferentes tipos de servicio, agiliza
 - Clases concretas para cada tipo de turno
 
 #### 3. Adapter (AdaptadorPantalla)
-![image](https://github.com/user-attachments/assets/3a88430e-630e-4b81-b526-2102c0e5ccb0)
 
 **Justificación:**
 
@@ -125,6 +124,7 @@ Separa la lógica de notificación de los diferentes canales (SMS, Email, App).
 ---
 
 ## 3. Diagrama de Implementación UML
+![image](https://github.com/user-attachments/assets/f98db4fd-1c6f-4c88-8733-5c804a086ceb)
 
 ### Arquitectura Física:
 
